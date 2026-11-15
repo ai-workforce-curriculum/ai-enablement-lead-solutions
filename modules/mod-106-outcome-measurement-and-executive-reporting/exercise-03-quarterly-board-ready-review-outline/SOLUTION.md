@@ -57,7 +57,7 @@ Length:       [X] pages; [Y] slides if presented
 
 | Tool | Stage at Q open | Stage at Q close | Change during Q | Posture at Q close |
 |---|---|---|---|---|
-| ... |
+| ... | ... | ... | ... | ... |
 
 - One short paragraph naming any tool that changed stage (new pilot opened, pilot graduated to GA, tool retired) and why.
 - A sentence on concentration risk — which single tool failing would hurt most, and the current mitigation.
