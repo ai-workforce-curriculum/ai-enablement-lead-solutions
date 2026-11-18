@@ -188,9 +188,9 @@ External positioning is calibrated to the top-two next-step ambitions from mod-1
 | Ambition | Headline anchor | Dominant artifact topics | Dominant community presence |
 |---|---|---|---|
 | **O1. Lateral at larger scope** (AI Enablement Lead at larger org) | "scaling an AI operating model across <larger scope>" | Operating-model patterns; multi-BU / multi-region governance; scorecard discipline | Practitioner forums; speaking at operator-oriented conferences |
-| **O2. Vertical in-org** (Head of / Director of AI Enablement at current org) | "AI Enablement Lead | <altitude anchor>" — no external shift | Any; external profile is maintained but not accelerated | Any; internal network dominates |
+| **O2. Vertical in-org** (Head of / Director of AI Enablement at current org) | "AI Enablement Lead \| <altitude anchor>" — no external shift | Any; external profile is maintained but not accelerated | Any; internal network dominates |
 | **O3. Vertical out-of-org** (Head of / Director of AI Enablement at a new org) | "building AI enablement functions at <altitude anchor>" | Head-of-shape pattern pieces: operating model + budget + ROI + change management + incident response | Head-of peer networks; invited talks; podcast guest appearances |
-| **O4. Governance-adjacent** (Head of AI Governance / AI Risk) | "NIST AI RMF–aligned governance | ISO/IEC 42001 contributor" | Policy, controls, incident response, regulatory posture | Standards bodies (NIST, ISO working groups where accessible), model-risk forums |
+| **O4. Governance-adjacent** (Head of AI Governance / AI Risk) | "NIST AI RMF–aligned governance \| ISO/IEC 42001 contributor" | Policy, controls, incident response, regulatory posture | Standards bodies (NIST, ISO working groups where accessible), model-risk forums |
 | **O5. L&D / Productivity-adjacent** | "AI literacy and change management at scale" | Role-tier curricula, champion programs, change-management patterns | L&D practitioner communities, productivity-engineering forums |
 | **O6. Advisor / Founder** | "patterns & templates for AI enablement teams" | Open artifacts, worked examples, pattern libraries | Founder communities, advisor networks |
 
