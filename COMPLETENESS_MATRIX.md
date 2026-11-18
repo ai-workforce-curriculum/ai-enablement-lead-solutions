@@ -2,14 +2,14 @@
 
 AI Workforce Curriculum · Level 45 · [learning](https://github.com/ai-workforce-curriculum/ai-enablement-lead-learning) · [solutions](https://github.com/ai-workforce-curriculum/ai-enablement-lead-solutions)
 
-_Generated 2026-11-15 by `aicg org completeness`._
+_Generated 2026-11-17 by `aicg org completeness`._
 
-**Overall: 78%**
+**Overall: 81%**
 
 | | Progress | Count |
 |---|---|---|
 | Learning | `██████████` 100% | 12/12 modules complete |
-| Solutions | `██████░░░░` 56% | 35/62 exercises solved |
+| Solutions | `██████░░░░` 63% | 39/62 exercises solved |
 
 ## Modules
 
@@ -23,7 +23,7 @@ _Generated 2026-11-15 by `aicg org completeness`._
 | `mod-106-outcome-measurement-and-executive-reporting` | ✅ Complete | 26,687 | 6 | 6 | — | 6/6 |
 | `mod-107-budget-roi-and-build-vs-buy-at-org-scope` | ✅ Complete | 26,542 | 6 | 5 | — | 5/5 |
 | `mod-108-industry-and-regulatory-flavours-of-enablement` | ✅ Complete | 26,567 | 8 | 5 | — | 0/5 |
-| `mod-109-ai-incident-response-and-enablement-side-rollback` | ✅ Complete | 24,320 | 7 | 4 | — | 0/4 |
+| `mod-109-ai-incident-response-and-enablement-side-rollback` | ✅ Complete | 24,320 | 7 | 4 | — | 4/4 |
 | `mod-110-commissioning-internal-ai-tools-and-custom-agents` | ✅ Complete | 24,447 | 6 | 4 | — | 0/4 |
 | `mod-111-ai-coe-operations-vendor-management-and-cross-functional-leadership` | ✅ Complete | 25,959 | 7 | 5 | — | 0/5 |
 | `mod-112-career-positioning-and-the-next-step-on-the-ladder` | ✅ Complete | 27,351 | 6 | 4 | — | 0/4 |
