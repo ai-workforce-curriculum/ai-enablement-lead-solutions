@@ -156,7 +156,7 @@ The record is stored in the vendor registry — the stewarded product per Exerci
 | A6 | Sub-processor list and change notice | 2 | Public sub-processor list; 30-day notice. Satisfies Tier 2 / 3. |
 | A7 | Human-in-the-loop by default | 3 | Product does not take autonomous action on customer records; drafting workflow by design. Tier-1-grade. |
 | A8 | Jurisdictional / residency | 1 | Vendor operates in-region for the org, but residency contractual commitment is weaker than ideal. Flag for the DPA redlines. Satisfies Tier 3 floor. |
-| Band A weighted contribution | 25 / 35 | Band A floor: no 0; Tier 3 threshold met |
+| — | Band A weighted contribution | 25 / 35 | Band A floor: no 0; Tier 3 threshold met |
 
 Band B, C, D would be scored in the same way with their evidence types. For brevity, the worked example assumes the vendor scores **Band B 22 / 30, Band C 14 / 20, Band D 10 / 15 → Total 71 / 100**.
 
