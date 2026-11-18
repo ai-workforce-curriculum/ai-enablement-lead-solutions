@@ -10,3 +10,4 @@
 | 2026-11-14 | `fill-mod-106-outcome-measurement-and-executive-reporting-solutions` | `mod-106-outcome-measurement-and-executive-reporting` | Fill mod-106-outcome-measurement-and-executive-reporting module exercise solutions |
 | 2026-11-14 | `fill-mod-105-champion-networks-and-change-management-solutions` | `mod-105-champion-networks-and-change-management` | Fill mod-105-champion-networks-and-change-management module exercise solutions |
 | 2026-11-14 | `fill-mod-104-training-programs-and-ai-literacy-curriculum-solutions` | `mod-104-training-programs-and-ai-literacy-curriculum` | Fill mod-104-training-programs-and-ai-literacy-curriculum module exercise solutions |
+| 2026-11-17 | `fill-mod-110-commissioning-internal-ai-tools-and-custom-agents-solutions` | `mod-110-commissioning-internal-ai-tools-and-custom-agents` | Fill mod-110-commissioning-internal-ai-tools-and-custom-agents module exercise solutions |
